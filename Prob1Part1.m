@@ -1,0 +1,6 @@
+wvtool(rectwin(64))
+title("Rectangular Window")
+wvtool(hamming(64))
+title("Hamming Window")
+wvtool(hanning(64))
+title("Hanning Window")
